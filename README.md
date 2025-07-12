@@ -1,6 +1,6 @@
 <!-- ⚡ CYBER BANNER -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=00FFCC&center=true&vCenter=true&width=800&lines=printf(%22Hello%2C+World!%5Cn%22);+;Timepass+here+%F0%9F%95%B9%EF%B8%8F;I+build+distributed+stuff+in+C%2B%2B;Docker+%2B+Neo4j+%2B+System+Design+nerd;I+vibe+to+synthwave+while+debugging">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=00FFCC&center=true&vCenter=true&width=800&lines=printf(%22Hello%2C+World!%5Cn%22);+;Debii+here+%F0%9F%95%B9%EF%B8%8F;I+build+distributed+stuff+in+C%2B%2B;Docker+%2B+Neo4j+%2B+System+Design+nerd;I+vibe+to+synthwave+while+debugging">
 </div>
 
 ---
