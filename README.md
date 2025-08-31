@@ -1,28 +1,30 @@
-<!-- ⚡ CYBER BANNER -->
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=00FFCC&center=true&vCenter=true&width=800&lines=printf(%22Hello%2C+World!%5Cn%22);+;Debii+here+%F0%9F%95%B9%EF%B8%8F;I+build+distributed+stuff+in+C%2B%2B;Docker+%2B+Neo4j+%2B+System+Design+nerd;I+vibe+to+synthwave+while+debugging">
-</div>
+# Hi there 👋, I'm Debii
+
+I'm a passionate developer who loves building **clean and efficient code**. I enjoy working on projects that make a difference and constantly learning new technologies.
+
+## 🔭 Currently Working On
+- Building [multi-tanant-billing]([link-to-project](https://github.com/debipandaa/multi-tenant-billing))
+- Learning more about **Kafka Streams, MySQL, Redis, Flyway, OpenAPI, Grafana, OpenTelemetry**
+
+## 🌱 Skills & Technologies
+ **Languages**: Java, C/C++, Python, JavaScript (ES6+), SQL (MySQL), HTML/CSS
+ **Frameworks**: Spring Boot, React, Node.js, Express.js
+ **Databases & Technologies**: MySQL, MongoDB, Redis, Apache Kafka, Kafka Streams, Debezium, OpenAPI, Flyway,
+ OpenTelemetry, Prometheus, Grafana, ffmpeg
+
+## 💡 Interests
+- Open-source contribution
+- Machine learning & AI
+- Web development
+- Competitive programming
+
+## 📫 How to reach me
+- Email: debipanda@outlook.com
+- LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/adityaghogare)
+
+## ⚡ Fun Fact
+I love solving puzzles, exploring new tech, and playing chess in my free time!  
 
 ---
 
-## 🧠 Whoami
-> “I don't just write code... I **craft systems**.”
-
-- 👨‍💻 Low-level systems & backend obsessed  
-- 🔩 Writing: C++, Python, Node.js  
-- 🐳 Containerizing the chaos with Docker  
-- 🕸 Building: BitTorrent client | Distributed Key-Value Store  
-- 🧪 Learning: Anti-cheat internals, TCP guts, Graph DBs
-
----
-
-## ⚙️ Tech Stack Toolbox
-
-```c
-const stack = {
-  languages: [ "C++", "Python", "JavaScript", "Bash" ],
-  backend:   [ "Node.js", "Express", "MongoDB", "Redis", "Neo4j" ],
-  devops:    [ "Docker", "Linux", "Shell scripting" ],
-  tools:     [ "Git", "tmux", "GDB", "VS Code", "Neovim" ],
-  vibe:      "Dark terminal, cat in lap, lofi beats"
-};
+⭐️ Feel free to check out my repositories and projects!
