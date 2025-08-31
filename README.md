@@ -7,9 +7,9 @@ I'm a passionate developer who loves building **clean and efficient code**. I en
 - Learning more about **Kafka Streams, MySQL, Redis, Flyway, OpenAPI, Grafana, OpenTelemetry**
 
 ## 🌱 Skills & Technologies
- -**Languages**: Java, C/C++, Python, JavaScript (ES6+), SQL (MySQL), HTML/CSS
- -**Frameworks**: Spring Boot, React, Node.js, Express.js
- -**Databases & Technologies**: MySQL, MongoDB, Redis, Apache Kafka, Kafka Streams, Debezium, OpenAPI, Flyway,
+ - **Languages**: Java, C/C++, Python, JavaScript (ES6+), SQL (MySQL), HTML/CSS
+ - **Frameworks**: Spring Boot, React, Node.js, Express.js
+ - **Databases & Technologies**: MySQL, MongoDB, Redis, Apache Kafka, Kafka Streams, Debezium, OpenAPI, Flyway,
  OpenTelemetry, Prometheus, Grafana, ffmpeg
 
 ## 💡 Interests
